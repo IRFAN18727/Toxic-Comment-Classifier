@@ -1,0 +1,18 @@
+{
+  "rows_used": 159571,
+  "training_rows": 127656,
+  "validation_rows": 31915,
+  "global_threshold": 0.5,
+  "label_thresholds": {
+    "toxic": 0.38981619477272034,
+    "severe_toxic": 0.2563701868057251,
+    "obscene": 0.44878512620925903,
+    "threat": 0.05764301121234894,
+    "insult": 0.27453306317329407,
+    "identity_hate": 0.164219930768013
+  },
+  "micro_f1": 0.731747000203376,
+  "macro_f1": 0.5511126109772244,
+  "micro_roc_auc": 0.9871274056746531,
+  "macro_roc_auc": 0.9785758728652265
+}
