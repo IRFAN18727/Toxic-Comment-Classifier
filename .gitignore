@@ -1,19 +1,15 @@
-# Python environments
 venv/
+Related/
 __pycache__/
 *.py[cod]
 
-# Notebook and generated app files
 .ipynb_checkpoints/
 
-# Generated model and report outputs
 models/
 
-# Local secrets and logs
 .env
 *.log
 logs/
 
-# OS files
 .DS_Store
 Thumbs.db
